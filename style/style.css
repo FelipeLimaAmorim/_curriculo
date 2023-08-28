@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+} 
+
+body {
+    background-color: rgb(218, 200, 191);
+    font-family: 'Bebas Neue', sans-serif;
+    margin: 0px;
+    padding: 25px;
+}
+
+.titulo {
+   margin: 40px;
+   margin-top: 10px; 
+  
+}
+
+.titulo h1 {
+    font-size: 60px;
+    background: linear-gradient(180deg, #4b4646, #335CFF);
+    -webkit-background-clip: text;
+    color: transparent;
+    text-shadow: 2px 5px 2px rgba(98, 89, 89, 0.3);
+    
+}
+
+.titulo p, a {
+    font-size: 20px;
+    color: black;
+}
+
+.titulo p i {
+  margin: 2px;
+}
+
+.objetivo,
+.historico,
+.formacao,
+.habilit_comp,
+.adicionais,
+.idiomas {  
+    margin: 40px;
+    margin-top: -30px;
+}
+
+.objetivo h2,
+.historico h2,
+.formacao h2,
+.habilit_comp h2,
+.adicionais h2,
+.idiomas h2 {
+    font-size: 30px;
+    background: linear-gradient(180deg, #2e2c2c, #335CFF);
+    -webkit-background-clip: text;
+    color: transparent;
+    text-shadow: 2px 2px 2px rgba(98, 89, 89, 0.3);
+}
+
+.objetivo p,
+.historico p,
+.formacao p,
+.habilit_comp p,
+.adicionais p,
+.idiomas p {
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+.objetivo h3,
+.historico h3,
+.formacao h3,
+.habilit_comh3 h3,
+.adicionais h3,
+.idiomas h3 {
+    
+    margin-left: 50px;
+}
+
+.habilit_comp h3 {
+    margin-left: 50px;
+}
+
+.tabela-container {
+    margin-left: 70px;
+    display:flex;   
+}
+
+.competencias {
+    margin-left: 100px;
+}
+
+
+.tabela2 {
+    margin-left: 70px;
+}
+
+.idiomas-flex  {
+    display: flex;
+}
+ 
+
+
+  
+
+  
+ 
+  
